@@ -1,1 +1,5 @@
-# e-dukandar
+# e-dukandar 
+
+
+
+use jupyter notebook to run code
